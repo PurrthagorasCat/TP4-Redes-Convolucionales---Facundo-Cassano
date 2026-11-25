@@ -1,0 +1,8 @@
+# El dataset no se sube al repo (se descarga del repo de la materia)
+data/
+# Modelos guardados y archivos de Jupyter
+*.pt
+*.pth
+.ipynb_checkpoints/
+__pycache__/
+.venv/
